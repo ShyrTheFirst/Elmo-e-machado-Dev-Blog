@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: O inicio. Uma viagem por esse novo mundo
 ---
 
