@@ -1,4 +1,4 @@
 ---
-title: O inicio. Uma viagem por esse novo mundo
+O inicio : Uma viagem por esse novo mundo
 ---
 
